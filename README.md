@@ -1,2 +1,4 @@
-# Node_js_Api-
-it's a learning purpose project 
+# Node js File system and server create 
+
+##run server 
+nodemon server
