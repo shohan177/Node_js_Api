@@ -1,0 +1,41 @@
+{
+    "info": [
+        {
+            "name": "shohan",
+            "age": 50,
+            "hight": "5.8'"
+        },
+        {
+            "name": "jahan",
+            "age": 50,
+            "hight": "5.8'"
+        },
+        {
+            "name": "sarwar",
+            "age": 50,
+            "hight": "5.8'"
+        },
+        {
+            "name": "khan",
+            "age": 50,
+            "hight": "5.8'"
+        }
+    ],
+    "product": [
+        {
+            "id": 1,
+            "name": "car",
+            "price": 150
+        },
+        {
+            "id": 2,
+            "name": "truck",
+            "price": 200
+        },
+        {
+            "id": 3,
+            "name": "moble",
+            "price": 800
+        }
+    ]
+}
